@@ -24,7 +24,7 @@ const Header = () => (
 );
 
 const Footer = () => {
-  
+   
 };
 
 const App = () => (
